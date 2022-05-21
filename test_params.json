@@ -2,5 +2,6 @@
     "userCreds": {
         "login": "Admin",
         "password": "Admin@Navi"
-    }
+    },
+    "file": "file"
 }
